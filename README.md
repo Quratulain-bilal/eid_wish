@@ -2,7 +2,7 @@
 
 A modern, animated Eid greeting card created using Python's Turtle graphics library. Features a gradient background, abstract crescent moon, blinking stars, and glowing "Eid Mubarak" text with Arabic translation.
 
-![Eid Mubarak Animation Preview](preview.gif) *[Note: Add a screenshot or GIF if available]*
+
 
 ## Features
 
